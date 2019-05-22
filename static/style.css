@@ -1,0 +1,21 @@
+h1 {
+    background: rgb(20, 6, 53);
+}
+
+body {
+    background: peachpuff;
+    color: firebrick;
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    text-decoration: underline;
+    padding: 50px 50px 75px 100px;
+}
+
+h2 {
+    color: black;
+    border: 1px solid firebrick;
+}
+li {
+    color: blue;
+}
